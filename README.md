@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/0118-pascals-triangle) |
 | [0561-array-partition](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/0561-array-partition) |
 ## Greedy
 |  |
@@ -27,4 +28,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
