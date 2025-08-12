@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/0001-two-sum) |
 | [0088-merge-sorted-array](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/0001-two-sum) |
 | [0940-fruit-into-baskets](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/0940-fruit-into-baskets) |
 ## Sliding Window
 |  |
