@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0239-sliding-window-maximum](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/0239-sliding-window-maximum) |
 | [0561-array-partition](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/0561-array-partition) |
+| [0565-array-nesting](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/0565-array-nesting) |
 | [0739-daily-temperatures](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/0739-daily-temperatures) |
 | [0940-fruit-into-baskets](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/0940-fruit-into-baskets) |
 ## Greedy
@@ -87,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/0020-valid-parentheses) |
+## Depth-First Search
+|  |
+| ------- |
+| [0565-array-nesting](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/0565-array-nesting) |
 <!---LeetCode Topics End-->
