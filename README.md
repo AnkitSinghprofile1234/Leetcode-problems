@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/0561-array-partition) |
 | [0565-array-nesting](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/0565-array-nesting) |
 | [0739-daily-temperatures](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/0739-daily-temperatures) |
+| [0932-monotonic-array](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/0932-monotonic-array) |
 | [0940-fruit-into-baskets](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/0940-fruit-into-baskets) |
 ## Greedy
 |  |
