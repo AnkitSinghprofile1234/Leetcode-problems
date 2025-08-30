@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/0739-daily-temperatures) |
 | [0932-monotonic-array](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/0932-monotonic-array) |
 | [0940-fruit-into-baskets](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/0940-fruit-into-baskets) |
+| [0968-beautiful-array](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/0968-beautiful-array) |
 ## Greedy
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/0231-power-of-two) |
+| [0968-beautiful-array](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/0968-beautiful-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -102,4 +104,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0968-beautiful-array](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/0968-beautiful-array) |
 <!---LeetCode Topics End-->
