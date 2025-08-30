@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/0231-power-of-two) |
 | [0968-beautiful-array](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/0968-beautiful-array) |
+| [3279-alice-and-bob-playing-flower-game](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/3279-alice-and-bob-playing-flower-game) |
 ## Bit Manipulation
 |  |
 | ------- |
