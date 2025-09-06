@@ -1,7 +1,7 @@
 class Solution {
 public:
-int maxProfit(vector<int>& prices) {
-    int minPrice = INT_MAX; //buy ka sabse kam price
+    int maxProfit(vector<int>& prices) {
+       int minPrice = INT_MAX; //buy ka sabse kam price
     int maxProfit = 0;      // best profit
 
      for (int price : prices) { //prices ke har element ko ek-ek karke price variable me daalte hai, aur loop ke andar use karo.
@@ -14,6 +14,6 @@ int maxProfit(vector<int>& prices) {
      maxProfit = profit;
                 }
             }
-        return maxProfit ;
+        return maxProfit ; 
     }
 };
