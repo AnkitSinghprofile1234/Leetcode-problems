@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/0231-power-of-two) |
+| [0415-add-strings](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/0415-add-strings) |
 | [0968-beautiful-array](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/0968-beautiful-array) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/3279-alice-and-bob-playing-flower-game) |
 ## Bit Manipulation
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/0020-valid-parentheses) |
+| [0415-add-strings](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/0415-add-strings) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -106,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0968-beautiful-array](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/0968-beautiful-array) |
+## Simulation
+|  |
+| ------- |
+| [0415-add-strings](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/0415-add-strings) |
 <!---LeetCode Topics End-->
