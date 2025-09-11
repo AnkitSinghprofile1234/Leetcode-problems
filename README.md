@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/0020-valid-parentheses) |
 | [0409-longest-palindrome](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/0415-add-strings) |
+| [1205-defanging-an-ip-address](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/1205-defanging-an-ip-address) |
 | [1873-longest-nice-substring](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/1873-longest-nice-substring) |
 | [1970-sorting-the-sentence](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/1970-sorting-the-sentence) |
 ## Depth-First Search
