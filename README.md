@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0561-array-partition](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/0561-array-partition) |
 | [1970-sorting-the-sentence](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/1970-sorting-the-sentence) |
+| [2887-sort-vowels-in-a-string](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/2887-sort-vowels-in-a-string) |
 ## Counting Sort
 |  |
 | ------- |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1205-defanging-an-ip-address](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/1205-defanging-an-ip-address) |
 | [1873-longest-nice-substring](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/1873-longest-nice-substring) |
 | [1970-sorting-the-sentence](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/1970-sorting-the-sentence) |
+| [2887-sort-vowels-in-a-string](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/2887-sort-vowels-in-a-string) |
 ## Depth-First Search
 |  |
 | ------- |
