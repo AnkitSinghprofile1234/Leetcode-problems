@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0278-first-bad-version](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/0278-first-bad-version) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -142,4 +143,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0206-reverse-linked-list](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/0206-reverse-linked-list) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
