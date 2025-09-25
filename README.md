@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [1509-replace-employee-id-with-the-unique-identifier](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 ## Dynamic Programming
 |  |
