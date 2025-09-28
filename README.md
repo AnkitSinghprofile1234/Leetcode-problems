@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/0155-min-stack) |
 | [0739-daily-temperatures](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
@@ -151,4 +152,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/0278-first-bad-version) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
