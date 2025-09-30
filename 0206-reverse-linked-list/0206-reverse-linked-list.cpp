@@ -15,7 +15,7 @@ public:
         ListNode* curr = head;
 
         while (curr != NULL) {
-            ListNode* nextNode = curr->next; // save next node
+            ListNode* nextNode = curr->next; // save next node matlab ye store ka leta hai next node ka aaray of currect element.
             curr->next = prev;               // reverse link
             prev = curr;                     // move prev forward
             curr = nextNode;                 // move curr forward
