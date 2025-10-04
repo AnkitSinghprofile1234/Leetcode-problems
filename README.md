@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0189-rotate-array](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/0239-sliding-window-maximum) |
 | [0561-array-partition](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/0561-array-partition) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/0189-rotate-array) |
 ## Database
 |  |
 | ------- |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/0050-powx-n) |
+| [0189-rotate-array](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/0231-power-of-two) |
 | [0415-add-strings](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/0415-add-strings) |
 | [0968-beautiful-array](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/0968-beautiful-array) |
