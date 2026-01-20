@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/0231-power-of-two) |
 | [0415-add-strings](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/0415-add-strings) |
 | [0968-beautiful-array](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/0968-beautiful-array) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/1071-greatest-common-divisor-of-strings) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/3279-alice-and-bob-playing-flower-game) |
 ## Bit Manipulation
 |  |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/0020-valid-parentheses) |
 | [0409-longest-palindrome](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/0415-add-strings) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1205-defanging-an-ip-address](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/1205-defanging-an-ip-address) |
 | [1873-longest-nice-substring](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/1873-longest-nice-substring) |
 | [1970-sorting-the-sentence](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/1970-sorting-the-sentence) |
