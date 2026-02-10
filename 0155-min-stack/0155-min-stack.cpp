@@ -9,8 +9,8 @@ public:
         if(s.empty()){
             s.push({val, val});
         } else {
-            int minVal = min(val, s.top().second);  // ✅ 'minVal' same variable use
-            s.push({val, minVal});                  // ✅ spelling fix
+            int minVal = min(val, s.top().second);  
+            s.push({val, minVal});                  
         }
     }
     
@@ -23,6 +23,6 @@ public:
     }
     
     int getMin() {
-        return s.top().second;  // ✅ fixed: 'retutn' → 'return', 's.top.second' → 's.top().second'
+        return s.top().second;  
     }
 };
