@@ -6,11 +6,10 @@ public:
 
         while(true){
 
-            slow = nums[slow];
-            fast = nums[fast];
-            fast = nums[fast];
+        slow = nums[slow];
+         fast = nums[nums[fast]];
 
-            if(slow == fast){
+    if(slow == fast){
 
                int ptr = 0;
 
@@ -23,7 +22,7 @@ public:
             }
         }
 
-        return NULL;
+        return -1;
     }
 };
 
