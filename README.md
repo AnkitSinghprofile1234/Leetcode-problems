@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0189-rotate-array](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/main/0202-happy-number/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Database
@@ -116,11 +117,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/0155-min-stack) |
+| [0234-palindrome-linked-list](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0739-daily-temperatures](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -172,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0206-reverse-linked-list](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Interactive
 | Problem Name | Difficulty |
