@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0189-rotate-array](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/main/0202-happy-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Database
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0202-happy-number](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/main/0202-happy-number/) | Easy |
 | [0409-longest-palindrome](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/0409-longest-palindrome) |
 | [0940-fruit-into-baskets](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/0940-fruit-into-baskets) |
 | [1873-longest-nice-substring](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/1873-longest-nice-substring) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/main/0202-happy-number/) | Easy |
 | [0231-power-of-two](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/0231-power-of-two) |
 | [0415-add-strings](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/0415-add-strings) |
 | [0968-beautiful-array](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/0968-beautiful-array) |
