@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0143-reorder-list](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/main/0143-reorder-list/) | Medium |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/0020-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/main/0125-valid-palindrome/) | Easy |
 | [0409-longest-palindrome](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/0415-add-strings) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/1071-greatest-common-divisor-of-strings) |
