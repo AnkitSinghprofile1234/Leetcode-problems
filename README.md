@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0932-monotonic-array](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/0932-monotonic-array) |
 | [0940-fruit-into-baskets](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/0940-fruit-into-baskets) |
 | [0968-beautiful-array](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/0968-beautiful-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0561-array-partition](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/0561-array-partition) |
+| [0977-squares-of-a-sorted-array](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1970-sorting-the-sentence](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/1970-sorting-the-sentence) |
 | [2887-sort-vowels-in-a-string](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/2887-sort-vowels-in-a-string) |
 ## Counting Sort
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
