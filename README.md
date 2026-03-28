@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/0239-sliding-window-maximum) |
+| [0283-move-zeroes](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0561-array-partition](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/0561-array-partition) |
 | [0565-array-nesting](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/0565-array-nesting) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/main/0202-happy-number/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0283-move-zeroes](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/main/0977-squares-of-a-sorted-array/) | Easy |
