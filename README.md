@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/main/0283-move-zeroes/) | Easy |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/0239-sliding-window-maximum) |
 | [0904-fruit-into-baskets](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0940-fruit-into-baskets](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/0940-fruit-into-baskets) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0278-first-bad-version](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Divide and Conquer
@@ -223,4 +226,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/main/0258-add-digits/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 <!---LeetCode Topics End-->
