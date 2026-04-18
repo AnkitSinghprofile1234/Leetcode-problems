@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0968-beautiful-array](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/0968-beautiful-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0392-is-subsequence](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/main/0392-is-subsequence/) | Easy |
 | [0509-fibonacci-number](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/main/0509-fibonacci-number/) | Easy |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
