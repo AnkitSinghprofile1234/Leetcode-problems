@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0561-array-partition](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/0561-array-partition) |
 | [0977-squares-of-a-sorted-array](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1970-sorting-the-sentence](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/1970-sorting-the-sentence) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0283-move-zeroes](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0295-find-median-from-data-stream](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0392-is-subsequence](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/main/0392-is-subsequence/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/0239-sliding-window-maximum) |
+| [0295-find-median-from-data-stream](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/main/0295-find-median-from-data-stream/) | Hard |
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -234,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0155-min-stack](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/0155-min-stack) |
+| [0295-find-median-from-data-stream](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/main/0295-find-median-from-data-stream/) | Hard |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -263,4 +267,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0295-find-median-from-data-stream](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/main/0295-find-median-from-data-stream/) | Hard |
 <!---LeetCode Topics End-->
