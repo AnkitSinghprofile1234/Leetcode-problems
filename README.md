@@ -32,11 +32,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/main/1962-remove-stones-to-minimize-the-total/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0409-longest-palindrome](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/0409-longest-palindrome) |
 | [0561-array-partition](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/0561-array-partition) |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/main/1962-remove-stones-to-minimize-the-total/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0451-sort-characters-by-frequency](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/main/1962-remove-stones-to-minimize-the-total/) | Medium |
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
