@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0169-majority-element](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/main/0015-3sum/) | Medium |
 | [0075-sort-colors](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0451-sort-characters-by-frequency](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/main/0451-sort-characters-by-frequency/) | Medium |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/main/0169-majority-element/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0561-array-partition](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/0561-array-partition) |
 ## Two Pointers
@@ -101,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0169-majority-element](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/main/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/main/0202-happy-number/) | Easy |
 | [0409-longest-palindrome](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/main/0424-longest-repeating-character-replacement/) | Medium |
@@ -214,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0968-beautiful-array](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/0968-beautiful-array) |
 | [1873-longest-nice-substring](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/1873-longest-nice-substring) |
