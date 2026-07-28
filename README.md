@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/main/0242-valid-anagram/) | Easy |
 | [0295-find-median-from-data-stream](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0451-sort-characters-by-frequency](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0561-array-partition](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/0561-array-partition) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/main/0202-happy-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0242-valid-anagram](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/main/0242-valid-anagram/) | Easy |
 | [0409-longest-palindrome](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/main/0451-sort-characters-by-frequency/) | Medium |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/main/0125-valid-palindrome/) | Easy |
+| [0242-valid-anagram](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/main/0242-valid-anagram/) | Easy |
 | [0392-is-subsequence](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/main/0392-is-subsequence/) | Easy |
 | [0409-longest-palindrome](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/0415-add-strings) |
