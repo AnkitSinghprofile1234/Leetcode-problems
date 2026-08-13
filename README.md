@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0001-two-sum](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0053-maximum-subarray](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/0053-maximum-subarray) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0013-roman-to-integer](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/main/0242-valid-anagram/) | Easy |
@@ -300,4 +302,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/main/0451-sort-characters-by-frequency/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
