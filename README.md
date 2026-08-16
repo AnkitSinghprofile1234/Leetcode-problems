@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0584-find-customer-referee](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/main/0584-find-customer-referee/) | Easy |
 | [0595-big-countries](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/main/0595-big-countries/) | Easy |
+| [1148-article-views-i](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/main/1148-article-views-i/) | Easy |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/AnkitSinghprofile1234/Leetcode-problems/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 ## Dynamic Programming
